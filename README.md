@@ -21,7 +21,7 @@ Sou um profissional em transição de carreira para a área de Dados, com foco e
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/thiagomartinslk/)
-[<img src='https://https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white' alt='Kaggle' height='30'>](https://https://www.kaggle.com/thiagomartinslk/)
+[<img src='https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white' alt='Kaggle' height='30'>](https://https://www.kaggle.com/thiagomartinslk/)
 
 <!--
 **ThiagoMSLK/ThiagoMSLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
