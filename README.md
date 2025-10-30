@@ -11,9 +11,10 @@ Sou um profissional em transição de carreira para a área de Dados, com foco e
 
 ### Portfólio 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMSLK&repo=Dashboard_Streamlit&theme=dark)](https://github.com/ThiagoMSLK/project_dashboard)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMSLK&repo=ETL_de_Mensagens_do_Telegram&theme=dark)](https://github.com/ThiagoMSLK/ETL_de_Mensagens_do_Telegram)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMSLK&repo=AWS_e_Python_Analise_de_Credito&theme=dark)](https://github.com/ThiagoMSLK/aws-e-python-projeto-credito)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMSLK&repo=Projeto_Relatorio_Semestral&theme=dark)](https://github.com/ThiagoMSLK/Projeto_Relatorio_Semestral)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMSLK&repo=Dashboard_Streamlit&theme=dark)](https://github.com/ThiagoMSLK/project_dashboard)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMSLK&repo=ETL_de_Mensagens_do_Telegram&theme=dark)](https://github.com/ThiagoMSLK/ETL_de_Mensagens_do_Telegram)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMSLK&repo=AWS_e_Python_Analise_de_Credito&theme=dark)](https://github.com/ThiagoMSLK/aws-e-python-projeto-credito)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMSLK&repo=Projeto_Relatorio_Semestral&theme=dark)](https://github.com/ThiagoMSLK/Projeto_Relatorio_Semestral)
 
 ### Projetos
 
