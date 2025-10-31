@@ -13,7 +13,7 @@ Sou um profissional em transição de carreira para a área de Dados, com foco e
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMSLK&repo=project_dashboard&theme=dark)](https://github.com/ThiagoMSLK/project_dashboard) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMSLK&repo=ETL_de_Mensagens_do_Telegram&theme=dark)](https://github.com/ThiagoMSLK/ETL_de_Mensagens_do_Telegram)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMSLK&repo=aws-e-python-projeto-credito&theme=dark)](https://github.com/ThiagoMSLK/aws-e-python-projeto-credito) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMSLK&repo=Projeto_Relatorio_Semestral&theme=dark)](https://github.com/ThiagoMSLK/Projeto_Relatorio_Semestral)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMSLK&repo=aws-e-python-projeto-credito&theme=dark)](https://github.com/ThiagoMSLK/aws-e-python-projeto-credito) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMSLK&repo=COVID-19_Coleta_e_Tratamento_de_Dados&theme=dark)](https://github.com/ThiagoMSLK/COVID-19_Coleta_e_Tratamento_de_Dados)
 
 ### Projetos
 
