@@ -20,9 +20,7 @@ Sou um profissional em transição de carreira para a área de Dados, com foco e
 ### Projetos
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMSLK&repo=projects&theme=dark)](https://github.com/ThiagoMSLK/projects) -->
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ThiagoMSLK&repo=projects&theme=dark)](https://github.com/ThiagoMSLK/projects)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoMSLK&repo=projects&theme=dark)](https://github.com/ThiagoMSLK/projects)
 
 
 ### Linguagens utilizadas
